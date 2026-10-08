@@ -1,0 +1,9 @@
+config.ini
+.env
+build/
+dist/
+*.spec
+*.exe
+__pycache__/
+venv/
+.venv/
